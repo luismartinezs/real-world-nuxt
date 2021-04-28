@@ -1,0 +1,108 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "editor.fontFamily": "Fira Code, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    "editor.minimap.enabled": false,
+    "atlascode.jira.workingSite": {
+      "baseUrlSuffix": "atlassian.net"
+    },
+    "yaml.schemas": {
+      "file:///home/luis/.vscode/extensions/atlassian.atlascode-2.8.6/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "atlascode.jira.explorer.showOpenIssues": false,
+    "explorer.confirmDelete": false,
+    "[sql]": {
+      "editor.defaultFormatter": "mtxr.sqltools"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[php]": {
+      "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "files.associations": {
+      "*.us": "mustache"
+    },
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "[yaml]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "cSpell.userWords": ["medior", "minmax", "subreddit"],
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[css]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "java.semanticHighlighting.enabled": true,
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[vue]": {
+      "editor.defaultFormatter": "octref.vetur"
+    },
+    "atlascode.jira.lastCreateSiteAndProject": {
+      "siteId": "1aa8ae5b-43f3-48e1-8c41-21f7837560c7",
+      "projectKey": "CT"
+    },
+    "atlascode.jira.enabled": true,
+    "atlascode.jira.jqlList": [
+      {
+        "enabled": true,
+        "id": "e694fbb7-3149-4a8a-85e8-332a68f54a68",
+        "monitor": true,
+        "name": "My jobsrepublic-v2 Issues",
+        "query": "assignee = currentUser() AND resolution = Unresolved ORDER BY lastViewed DESC",
+        "siteId": "1aa8ae5b-43f3-48e1-8c41-21f7837560c7"
+      }
+    ],
+    "liveServer.settings.donotShowInfoMsg": true,
+    "python.jediEnabled": false,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "atlascode.jira.explorer.enabled": true,
+    "atlascode.jira.explorer.nestSubtasks": true,
+    "atlascode.jira.statusbar.enabled": true,
+    "java.project.importHint": false,
+    "tailwindCSS.emmetCompletions": true,
+    "tailwindCSS.includeLanguages": {
+      "plaintext": "html"
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": false
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "[scss]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[dart]": {
+      "editor.formatOnSave": true,
+      "editor.formatOnType": true,
+      "editor.rulers": [80],
+      "editor.selectionHighlight": false,
+      "editor.suggest.snippetsPreventQuickSuggestions": false,
+      "editor.suggestSelection": "first",
+      "editor.tabCompletion": "onlySnippets",
+      "editor.wordBasedSuggestions": false
+    },
+    "pugFormatter.tabSize": 2,
+    "[svelte]": {
+      "editor.defaultFormatter": "svelte.svelte-vscode"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "hediet.vscode-drawio.local-storage": "eyIuZHJhd2lvLWNvbmZpZyI6IntcImxhbmd1YWdlXCI6XCJcIixcImN1c3RvbUZvbnRzXCI6W10sXCJsaWJyYXJpZXNcIjpcImdlbmVyYWxcIixcImN1c3RvbUxpYnJhcmllc1wiOltcIkwuc2NyYXRjaHBhZFwiXSxcInBsdWdpbnNcIjpbXSxcInJlY2VudENvbG9yc1wiOltdLFwiZm9ybWF0V2lkdGhcIjpcIjI0MFwiLFwiY3JlYXRlVGFyZ2V0XCI6ZmFsc2UsXCJwYWdlRm9ybWF0XCI6e1wieFwiOjAsXCJ5XCI6MCxcIndpZHRoXCI6ODUwLFwiaGVpZ2h0XCI6MTEwMH0sXCJzZWFyY2hcIjp0cnVlLFwic2hvd1N0YXJ0U2NyZWVuXCI6dHJ1ZSxcImdyaWRDb2xvclwiOlwiI2QwZDBkMFwiLFwiZGFya0dyaWRDb2xvclwiOlwiIzZlNmU2ZVwiLFwiYXV0b3NhdmVcIjp0cnVlLFwicmVzaXplSW1hZ2VzXCI6bnVsbCxcIm9wZW5Db3VudGVyXCI6MCxcInZlcnNpb25cIjoxOCxcInVuaXRcIjoxLFwiaXNSdWxlck9uXCI6ZmFsc2UsXCJ1aVwiOlwiXCJ9In0=",
+    "git.confirmSync": false,
+    "[markdown]": {
+      "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+  "python.languageServer": "Microsoft",
+  "vetur.format.defaultFormatter.html": "prettyhtml"
+  }
+  
